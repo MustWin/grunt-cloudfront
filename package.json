@@ -18,7 +18,7 @@
     "node": ">= 0.8.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "author": "Florent Lamoureux @flrent & Mike Ihbe @mikeihbe",
   "license": "MIT",
